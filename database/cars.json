@@ -1,0 +1,23 @@
+[
+  {
+    "id": "94c341e2-4c6e-42cf-8270-4d43f8fa5026",
+    "name": "CX-9",
+    "releaseYear": 2021,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "5b2b7d56-0f58-4ba1-80e2-cdaabd305e18",
+    "name": "Alpine",
+    "releaseYear": 2021,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "a3fb4ad9-8646-4259-a280-dc435a31f720",
+    "name": "El Camino",
+    "releaseYear": 2021,
+    "available": true,
+    "gasAvailable": true
+  }
+]
